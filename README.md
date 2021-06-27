@@ -1,5 +1,7 @@
 # api-email-nlw4
 API de envio de email e testes automatizados
+
 - [x] Teste automatizado com Jest.
 - [x] Envio de email
-- [x]  Rotas e repositórios
+- [x] Rotas e repositórios
+- [x] Controllers e Repositories funcionando
